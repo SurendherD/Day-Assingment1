@@ -1,0 +1,13 @@
+body {
+  font-family: 'Poppins';
+}
+
+#css {
+  font-variant: normal;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+p {
+  font-size: 15px;
+}
